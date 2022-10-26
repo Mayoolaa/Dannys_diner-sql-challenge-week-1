@@ -2,7 +2,7 @@
 
 
 
-##Introduction
+## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 Problem Statement
@@ -17,7 +17,7 @@ You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship Diagram
 
-##Example Datasets
+## Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
 Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
@@ -49,7 +49,7 @@ customer_id	join_date
 A	2021-01-07
 B	2021-01-09
 
-##Case Study Questions
+## Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
 1.	What is the total amount each customer spent at the restaurant?
 2.	How many days has each customer visited the restaurant?
